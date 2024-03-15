@@ -1,0 +1,38 @@
+# node_modules directory
+node_modules/
+
+# Build directory
+build/
+
+# Coverage directory
+coverage/
+
+# Temporary files
+.tmp/
+
+# IDE files
+.idea/
+
+# Local environment variables
+.env
+
+# MongoDB database files
+db.sqlite3
+
+# Test files
+*.test.js
+
+# Linting files
+*.lint
+
+# Documentation files
+*.md
+
+# Editorconfig files
+.editorconfig
+
+# Gitpod files
+.gitpod.yml
+
+# Visual Studio Code files
+.vscode/
